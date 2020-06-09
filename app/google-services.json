@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136215140684",
+    "firebase_url": "https://secmes-vdnrv.firebaseio.com",
+    "project_id": "secmes-vdnrv",
+    "storage_bucket": "secmes-vdnrv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136215140684:android:967df665cd88cc26f097e9",
+        "android_client_info": {
+          "package_name": "com.project_VDNRV.securedmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136215140684-bag0evmb1mtdj4pjk5o7e5gmek9djsnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgz1fAoR8uCPWHpB7jVmLaoBzbGe7ZeV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136215140684-bag0evmb1mtdj4pjk5o7e5gmek9djsnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
